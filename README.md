@@ -8,7 +8,7 @@ Link: http://preview.themeforest.net/item/seafood-company-restaurant-theme/full_
 Gồm các thành phần:
 
 
-## Header
+## Header (truongjr)
 - Home: chỉ home đầu tiên
 - Features: tài nguyên để xây dựng trang web
 - Recipes: công thức nấu ăn
@@ -16,14 +16,13 @@ Gồm các thành phần:
 - About: giới thiệu trang web
 - Contacts: Liên hệ người chủ trang web
 
-## Slidebar
+## Slidebar (nhontran)
 
+## About về dịch vụ (nhontran)
 
-## About về dịch vụ
+## About về sản phẩm (nhatthanhnguyen)
 
-## About về sản phẩm
-
-## Map
+## Map (nhatthanhnguyen)
 
 ## Danh mục sản phẩm
 
